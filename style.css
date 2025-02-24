@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.name{
+    background-color: purple;
+    padding: 30px;
+    border: 2px solid black;
+}
+#profession{
+    background-color: pink;
+    padding: 30px;
+    border: 2px solid black;
+}
+.Text{
+    color: red;
+}
+.list{
+    list-style-type: square;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.trees{
+    background-color: green;
+    padding: 10px;
+}
+
+.flowers{
+    background-color: rgb(148, 89, 202);
+    padding: 10px;
+}
+
+.sky{
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+.brooklynisthesweetest{
+    background-color:red; 
+    padding: 30px; 
+    width: 200px; 
+    border: 2px solid black
+}
+
+.gender{
+    background-color: hotpink;
+    padding: 30px;
+    border: 2px solid black;
+}
+.list{
+    list-style-type: circle;
+}
+.hello{
+    background-color: plum;
+}
+h2{
+    color: rgb(252, 20, 136)
+}
+.body{
+    background-color:hsl(323, 82%, 59%);
+}
