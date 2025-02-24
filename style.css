@@ -58,6 +58,8 @@ img {
 }
 .hello{
     background-color: plum;
+    margin: auto;
+    width:300px;
 }
 h2{
     color: rgb(252, 20, 136)
